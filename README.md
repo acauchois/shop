@@ -1,2 +1,2 @@
 # shop
-Go app with a MySQL database.
+Shop app with a MySQL database.
